@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Tutorial - Instalación de Obsidian.md",
+            "file": "docs/procesos/Tutorial - Instalación de Obsidian.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Tutorial - Instalación de Obsidian.md",
+                "file": "docs/procesos/Tutorial - Instalación de Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Tutorial - Instalación de Obsidian.md",
+                "file": "docs/procesos/Tutorial - Instalación de Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Tutorial - Instalación de Obsidian.md"
+                "file": "docs/procesos/Tutorial - Instalación de Obsidian.md"
               }
             }
           }
@@ -128,8 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52e0122351b43423",
+  "active": "58407ec42e2a88a5",
   "lastOpenFiles": [
-    "docs/Tutorial - Instalación de Obsidian.md"
+    "docs/procesos/Tutorial - Instalación de Obsidian.md"
   ]
 }

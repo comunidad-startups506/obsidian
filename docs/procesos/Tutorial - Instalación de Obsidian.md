@@ -13,4 +13,4 @@ Paso 4: Clonar el repositorio por primera vez
 * Abrir la siguiente dirección web: https://github.com/startupscr/obsidian
 * Dar click en el botón Code
 * Seleccionar la opción Open with GitHub Desktop
-![[Pasted image 20220804114151.png]]
+![[paso 4.png]]
