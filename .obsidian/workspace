@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "7dd7f693539bbfd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "52e0122351b43423",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Tutorial - Instalación de Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "037ced5170980833",
+    "type": "split",
+    "children": [
+      {
+        "id": "77167b02f47a57b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58407ec42e2a88a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4624b40d0ef4e57f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b17692cc1ce1a92",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db266d1936e6e420",
+    "type": "split",
+    "children": [
+      {
+        "id": "49f1bb1a5a2b0433",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbeb5011476f031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Tutorial - Instalación de Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a85d889b2ef608c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Tutorial - Instalación de Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c72afc8ba7693e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f74d6fbf5d292114",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Tutorial - Instalación de Obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "52e0122351b43423",
+  "lastOpenFiles": [
+    "docs/Tutorial - Instalación de Obsidian.md"
+  ]
+}
